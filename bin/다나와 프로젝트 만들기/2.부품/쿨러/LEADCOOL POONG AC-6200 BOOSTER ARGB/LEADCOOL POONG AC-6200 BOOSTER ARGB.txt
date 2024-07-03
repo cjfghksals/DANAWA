@@ -1,0 +1,1 @@
+CPU 쿨러/듀얼타워형/공랭/팬 쿨러/TDP:250W/A/S기간:3년/[호환/크기]/인텔 소켓:LGA1700,LGA1200,LGA115x,LGA2066,LGA2011,LGA1366/AMD 소켓:AM5,AM4,FMx/AMx(AM1/4외)/가로:125mm/세로:135mm/높이:158mm/무게:1105g/[쿨링팬]/팬 크기:120mm/팬 개수:2개/25T/3-4핀/베어링:Hydraulic(유체)/1800 RPM/최대 풍량:75.8 CFM/풍압(정압):2.15mmH₂O/최대 팬소음:29.5dBA/[부가기능]/LED 라이트/PWM 지원/RGB/LED시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME

@@ -1,0 +1,1 @@
+내장형SSDM.2 (2280)PCIe3.0x4 (32GTs)NVMe 1.3TLC(토글)3D낸드DRAM 탑재DDR4 1GB컨트롤러삼성 Phoenix[성능]순차읽기3,500MBs순차쓰기3,300MBs읽기IOPS600K쓰기IOPS550K[지원기능]TRIMGCS.M.A.R.TDEVSLPAES 암호화전용 SW[환경특성]MTBF150만시간TBW600TBAS기간5년방열판 미포함두께2.38mm최대 8g[기타]구매전 병행수입 전환판매 여부 반드시 확인요망

@@ -1,0 +1,1 @@
+내장형SSD/M.2 (2280)/PCIe4.0x4 (64GT/s)/NVMe 1.4/TLC(기타)/3D낸드/DRAM 탑재/DDR4 1GB/컨트롤러:SK하이닉스 Aries/PS5 호환/[성능]/순차읽기:7,000MB/s/순차쓰기:6,500MB/s/읽기IOPS:1,400K/쓰기IOPS:1,300K/[지원기능]/TRIM/GC/SLC캐싱/S.M.A.R.T/DEVSLP/AES 암호화/전용 S/W/[환경특성]/MTBF:150만시간/TBW:750TB/A/S기간:5년/방열판 미포함/두께:2.38mm/7g

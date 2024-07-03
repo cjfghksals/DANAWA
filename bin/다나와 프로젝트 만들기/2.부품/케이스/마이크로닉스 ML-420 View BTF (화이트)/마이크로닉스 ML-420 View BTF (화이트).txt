@@ -1,0 +1,2 @@
+PC케이스(ATX) / 빅타워 / 파워미포함 / 표준-ATX / Micro-ATX / 표준-ITX / ATX (BTF) / Micro-ATX (BTF) / 수직 PCI형태:슬롯변경형 / 쿨링팬:총4개 / LED팬:4개 / 전면 패널 타입:강화유리 / 측면:강화유리 / 후면:140mm LED x1 / 내부 측면:140mm LEDx3 / 너비(W):246mm / 깊이(D):525mm / 높이(H):522mm / 파워 장착 길이:280mm / 파워 위치:하단후면 / VGA 장착 길이:455mm / CPU쿨러 장착높이:180mm / RGB 컨트롤 / LED 색상:ARGB
+
